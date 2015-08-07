@@ -31,31 +31,6 @@ function CV_InitSoundManager() {
 		// optional: ignore Flash where possible, use 100% HTML5 mode
 		// preferFlash: false,
 		onready: function() {
-
-			console.log("CV_InitSoundManager: On Ready");
-			console.log("soundManager = "+soundManager);
-
-
-			soundManager.fadeTo = function(id, dur, toVol, callback){
-				dur      = dur || 1000;
-				toVol    = toVol || 0;
-				callback = typeof callback == 'function' ? callback : function(){};
-				var s    = soundManager.getSoundById(id),
-				    k    = s.volume,
-				    t    = dur/Math.abs(k - toVol),
-				    i    = setInterval(function(){
-					        k = k > toVol ? k - 1 : k + 1;
-					        s.setVolume(k);
-					        if(k == toVol){ 
-					                callback.call(this);
-						        clearInterval(i);
-						        i = null;
-					        }
-					}, t);	
-			}
-			console.log("soundManager.fadeTo = "+soundManager.fadeTo);
-
-
 			soundManager.createSound({
 				id: 'music_1',
 				url: 'cv/sound/C418 – Minecraft.mp3',
@@ -96,13 +71,8 @@ function CV_InitSoundManager() {
 				volume: 70
 			});
 
-
-
 		}
 	});
-
-	
-	
 }
 
 function CV_FlipObject(refName,dir){
