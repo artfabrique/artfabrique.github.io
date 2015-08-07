@@ -1,0 +1,1 @@
+phantomjs rasterize.js file:///D:/Dropbox/Revenga/Portfolio/artfabrique.github.io.git/export_with_transparency.html export.png
