@@ -42,16 +42,20 @@ function CV_InitSoundManager() {
 				callback = typeof callback == 'function' ? callback : function(){};
 				var s    = soundManager.getSoundById(id),
 				    k    = s.volume,
-				    t    = dur/Math.abs(k - toVol),
-				    i    = setInterval(function(){
+				    t    = dur/Math.abs(k - toVol);
+				if(s.playState==0&toVol>0) s.play();
+				var i    = setInterval(function(){
 					        k = k > toVol ? k - 1 : k + 1;
+					        console.log("soundManager.fadeTo: "+k);
 					        s.setVolume(k);
 					        if(k == toVol){ 
-					                callback.call(this);
+					            callback.call(this);
 						        clearInterval(i);
 						        i = null;
+						        if(toVol==0) s.stop();
 					        }
 					}, t);	
+					console.log("soundManager.fadeTo: "+s);
 			}
 			console.log("soundManager.fadeTo = "+soundManager.fadeTo);
 
@@ -93,7 +97,7 @@ function CV_InitSoundManager() {
 					CV_checkPreload();
 				//alert('The sound '+this.id+' loaded!');
 				},
-				volume: 70
+				volume: 40
 			});
 
 
