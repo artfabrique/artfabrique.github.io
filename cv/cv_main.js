@@ -27,6 +27,7 @@ function CV_InitSoundManager() {
 	//alert("CV_InitSoundManager");
 	soundManager.setup({
 		url: 'cv/soundmanager/swf',
+		//preferFlash: true,
 		flashVersion: 9, // optional: shiny features (default = 8)
 		// optional: ignore Flash where possible, use 100% HTML5 mode
 		// preferFlash: false,
@@ -79,6 +80,7 @@ function CV_InitSoundManager() {
 				autoLoad: true,
 				autoPlay: false,
 				loops:999,
+				multiShot:true,
 				onload: function() {
 					CV_rssLoaded++;
 					CV_checkPreload();
@@ -92,12 +94,13 @@ function CV_InitSoundManager() {
 				autoLoad: true,
 				autoPlay: false,
 				loops:999,
+				multiShot:true,
 				onload: function() {
 					CV_rssLoaded++;
 					CV_checkPreload();
 				//alert('The sound '+this.id+' loaded!');
 				},
-				volume: 40
+				volume: 20
 			});
 
 

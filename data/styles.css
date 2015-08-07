@@ -248,6 +248,10 @@
 .heading_light_1 {
   font-family:'Arial Обычный', 'Arial';
 }
+.interactiveelementover {
+}
+.interactiveelementout {
+}
 .fontawesome {
   font-family:'FontAwesome Regular', 'FontAwesome';
   font-size:36px;
