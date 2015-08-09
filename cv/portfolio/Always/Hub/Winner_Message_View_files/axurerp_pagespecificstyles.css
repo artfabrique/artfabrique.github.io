@@ -1,0 +1,3950 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../Winner_Message_View_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1161px;
+    height:2474px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1161px;
+    height:2474px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:1229px;
+    width:1157px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_line {
+    background-image: url('../Winner_Message_View_files/u2_line.png');
+}
+
+.u2_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:106px;
+    height:5px;
+}
+
+.u2 {
+    position:absolute;
+    left:1067px;
+    top:700px;
+    width:106px;
+    height:10px;
+    
+}
+
+.u3 {
+    position:absolute;
+    left:1183px;
+    top:694px;
+    width:90px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_line {
+    background-image: url('../Winner_Message_View_files/u4_line.png');
+}
+
+.u4_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:106px;
+    height:5px;
+}
+
+.u4 {
+    position:absolute;
+    left:1067px;
+    top:776px;
+    width:106px;
+    height:10px;
+    
+}
+
+.u5 {
+    position:absolute;
+    left:1183px;
+    top:756px;
+    width:90px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u7 {
+    position:absolute;
+    left:306px;
+    top:76px;
+    width:761px;
+    height:185px;
+    overflow:hidden;
+}
+
+#pd3u7 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:761px;
+    height:185px;
+    
+}
+
+.u8_normal {
+    background-image: url('../Winner_Message_View_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:760px;
+    height:184px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:766px;
+    height:190px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../Winner_Message_View_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:15px;
+    top:14px;
+    width:100px;
+    height:100px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:106px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:614px;
+    top:12px;
+    width:130px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../Winner_Message_View_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:189px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../Winner_Message_View_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:46px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../Winner_Message_View_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:131px;
+    top:14px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:131px;
+    top:32px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:131px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:147px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:186px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:202px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:240px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:256px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:131px;
+    top:54px;
+    width:110px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:614px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:682px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../Winner_Message_View_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:640px;
+    top:144px;
+    width:110px;
+    height:35px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:41px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../Winner_Message_View_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:715px;
+    top:147px;
+    width:28px;
+    height:28px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:34px;
+    height:34px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:722px;
+    top:146px;
+    width:14px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+}
+
+.u41_line {
+    background-image: url('../Winner_Message_View_files/u41_line.png');
+}
+
+.u41_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:326px;
+    height:5px;
+}
+
+.u41 {
+    position:absolute;
+    left:434px;
+    top:179px;
+    width:326px;
+    height:10px;
+    
+}
+
+.u42_line {
+    background-image: url('../Winner_Message_View_files/u42_line.png');
+}
+
+.u42_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:315px;
+    height:5px;
+}
+
+.u42 {
+    position:absolute;
+    left:0px;
+    top:179px;
+    width:315px;
+    height:10px;
+    
+}
+
+#u43 {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u44 {
+    position:absolute;
+    left:315px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u45 {
+    position:absolute;
+    left:190px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd2u7 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:761px;
+    height:185px;
+    
+}
+
+.u46_normal {
+    background-image: url('../Winner_Message_View_files/u8_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:760px;
+    height:184px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:766px;
+    height:190px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../Winner_Message_View_files/u10_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:15px;
+    top:14px;
+    width:100px;
+    height:100px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:106px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:614px;
+    top:12px;
+    width:130px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../Winner_Message_View_files/u13_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:189px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../Winner_Message_View_files/u15_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:46px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../Winner_Message_View_files/u13_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:131px;
+    top:14px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:131px;
+    top:32px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:131px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:147px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:186px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:202px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:240px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:256px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:131px;
+    top:54px;
+    width:110px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72 {
+    position:absolute;
+    left:614px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:682px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_line {
+    background-image: url('../Winner_Message_View_files/u74_line.png');
+}
+
+.u74_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:321px;
+    height:5px;
+}
+
+.u74 {
+    position:absolute;
+    left:439px;
+    top:179px;
+    width:321px;
+    height:10px;
+    
+}
+
+.u75_line {
+    background-image: url('../Winner_Message_View_files/u75_line.png');
+}
+
+.u75_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:309px;
+    height:5px;
+}
+
+.u75 {
+    position:absolute;
+    left:0px;
+    top:179px;
+    width:309px;
+    height:10px;
+    
+}
+
+#u76 {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u77 {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u78 {
+    position:absolute;
+    left:190px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u79_normal {
+    background-image: url('../Winner_Message_View_files/u36_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:640px;
+    top:144px;
+    width:110px;
+    height:35px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:41px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../Winner_Message_View_files/u38_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:715px;
+    top:147px;
+    width:28px;
+    height:28px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:34px;
+    height:34px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83 {
+    position:absolute;
+    left:722px;
+    top:146px;
+    width:14px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+}
+
+#pd1u7 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:761px;
+    height:185px;
+    
+}
+
+.u84_normal {
+    background-image: url('../Winner_Message_View_files/u8_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:760px;
+    height:184px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:766px;
+    height:190px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../Winner_Message_View_files/u10_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:15px;
+    top:14px;
+    width:100px;
+    height:100px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:106px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88 {
+    position:absolute;
+    left:614px;
+    top:12px;
+    width:130px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../Winner_Message_View_files/u89_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:189px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_normal {
+    background-image: url('../Winner_Message_View_files/u15_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+}
+
+#u91_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:46px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../Winner_Message_View_files/u13_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95 {
+    position:absolute;
+    left:131px;
+    top:14px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96 {
+    position:absolute;
+    left:131px;
+    top:32px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:131px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u97_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:147px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:186px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u101_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:202px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u103_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:240px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:256px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u107_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u108 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109 {
+    position:absolute;
+    left:131px;
+    top:54px;
+    width:110px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110 {
+    position:absolute;
+    left:614px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111 {
+    position:absolute;
+    left:682px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_line {
+    background-image: url('../Winner_Message_View_files/u112_line.png');
+}
+
+.u112_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:446px;
+    height:5px;
+}
+
+.u112 {
+    position:absolute;
+    left:314px;
+    top:179px;
+    width:446px;
+    height:10px;
+    
+}
+
+.u113_line {
+    background-image: url('../Winner_Message_View_files/u113_line.png');
+}
+
+.u113_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:186px;
+    height:5px;
+}
+
+.u113 {
+    position:absolute;
+    left:0px;
+    top:179px;
+    width:186px;
+    height:10px;
+    
+}
+
+#u114 {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u115 {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u116 {
+    position:absolute;
+    left:190px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u117_normal {
+    background-image: url('../Winner_Message_View_files/u36_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:640px;
+    top:144px;
+    width:110px;
+    height:35px;
+}
+
+#u117_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:41px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../Winner_Message_View_files/u38_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:715px;
+    top:147px;
+    width:28px;
+    height:28px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u119_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:34px;
+    height:34px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121 {
+    position:absolute;
+    left:722px;
+    top:146px;
+    width:14px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+}
+
+#pd0u7 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:761px;
+    height:185px;
+    
+}
+
+.u122_normal {
+    background-image: url('../Winner_Message_View_files/u8_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:760px;
+    height:184px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:766px;
+    height:190px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../Winner_Message_View_files/u10_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:15px;
+    top:14px;
+    width:100px;
+    height:100px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:106px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126 {
+    position:absolute;
+    left:614px;
+    top:12px;
+    width:130px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127_normal {
+    background-image: url('../Winner_Message_View_files/u13_normal.png');
+}
+
+.u127_container {
+    position:absolute;
+    left:189px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u127_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u128 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../Winner_Message_View_files/u129_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:46px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../Winner_Message_View_files/u13_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133 {
+    position:absolute;
+    left:131px;
+    top:14px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134 {
+    position:absolute;
+    left:131px;
+    top:32px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:131px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u135_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u137_container {
+    position:absolute;
+    left:147px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u137_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u138 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u139_container {
+    position:absolute;
+    left:186px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u139_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u140 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u141_container {
+    position:absolute;
+    left:202px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u141_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u142 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u143_normal {
+    background-image: url('../Winner_Message_View_files/u21_normal.png');
+}
+
+.u143_container {
+    position:absolute;
+    left:240px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u143_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u144 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145_normal {
+    background-image: url('../Winner_Message_View_files/u23_normal.png');
+}
+
+.u145_container {
+    position:absolute;
+    left:256px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u145_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u146 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147 {
+    position:absolute;
+    left:131px;
+    top:54px;
+    width:110px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148 {
+    position:absolute;
+    left:614px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149 {
+    position:absolute;
+    left:682px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_line {
+    background-image: url('../Winner_Message_View_files/u150_line.png');
+}
+
+.u150_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:574px;
+    height:5px;
+}
+
+.u150 {
+    position:absolute;
+    left:186px;
+    top:179px;
+    width:574px;
+    height:10px;
+    
+}
+
+.u151_line {
+    background-image: url('../Winner_Message_View_files/u151_line.png');
+}
+
+.u151_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:10px;
+    height:5px;
+}
+
+.u151 {
+    position:absolute;
+    left:0px;
+    top:179px;
+    width:10px;
+    height:10px;
+    
+}
+
+#u152 {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u153 {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u154 {
+    position:absolute;
+    left:190px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u155_normal {
+    background-image: url('../Winner_Message_View_files/u36_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:640px;
+    top:144px;
+    width:110px;
+    height:35px;
+}
+
+#u155_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:41px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157_normal {
+    background-image: url('../Winner_Message_View_files/u38_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:715px;
+    top:147px;
+    width:28px;
+    height:28px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u157_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:34px;
+    height:34px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159 {
+    position:absolute;
+    left:722px;
+    top:146px;
+    width:14px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+}
+
+.u161_normal {
+    background-image: url('../Winner_Message_View_files/u161_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:93px;
+    top:94px;
+    width:132px;
+    height:130px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:138px;
+    height:136px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:57px;
+    width:128px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163 {
+    position:absolute;
+    left:95px;
+    top:140px;
+    width:130px;
+    height:44px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../Winner_Message_View_files/u164_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:306px;
+    top:781px;
+    width:760px;
+    height:230px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:766px;
+    height:236px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:107px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../Winner_Message_View_files/u166_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:326px;
+    top:929px;
+    width:110px;
+    height:62px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:68px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:23px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168 {
+    position:absolute;
+    left:719px;
+    top:941px;
+    width:190px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169 {
+    position:absolute;
+    left:920px;
+    top:941px;
+    width:128px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170 {
+    position:absolute;
+    left:806px;
+    top:971px;
+    width:248px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171 {
+    position:absolute;
+    left:456px;
+    top:941px;
+    width:248px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172_normal {
+    background-image: url('../Winner_Message_View_files/u172_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:326px;
+    top:799px;
+    width:350px;
+    height:100px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:356px;
+    height:106px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:346px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174_normal {
+    background-image: url('../Winner_Message_View_files/u172_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:696px;
+    top:799px;
+    width:350px;
+    height:100px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:356px;
+    height:106px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:346px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_line {
+    background-image: url('../Winner_Message_View_files/u176_line.png');
+}
+
+.u176_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:760px;
+    height:5px;
+}
+
+.u176 {
+    position:absolute;
+    left:306px;
+    top:912px;
+    width:760px;
+    height:10px;
+    
+}
+
+#u178 {
+    position:absolute;
+    left:331px;
+    top:285px;
+    width:411px;
+    height:26px;
+    overflow:hidden;
+}
+
+#pd3u178 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:411px;
+    height:26px;
+    
+}
+
+.u179_normal {
+    background-image: url('../Winner_Message_View_files/u179_normal.png');
+}
+
+.u179_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u179_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181_normal {
+    background-image: url('../Winner_Message_View_files/u179_normal.png');
+}
+
+.u181_container {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u181_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u182 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_normal {
+    background-image: url('../Winner_Message_View_files/u183_normal.png');
+}
+
+.u183_container {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u183_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u184 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u185 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u186 {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u187 {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd2u178 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:411px;
+    height:26px;
+    
+}
+
+.u188_normal {
+    background-image: url('../Winner_Message_View_files/u179_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190_normal {
+    background-image: url('../Winner_Message_View_files/u183_normal.png');
+}
+
+.u190_container {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u190_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u191 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_normal {
+    background-image: url('../Winner_Message_View_files/u179_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u192_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u194 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u195 {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u196 {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd1u178 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:411px;
+    height:26px;
+    
+}
+
+.u197_normal {
+    background-image: url('../Winner_Message_View_files/u183_normal.png');
+}
+
+.u197_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u197_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u198 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199_normal {
+    background-image: url('../Winner_Message_View_files/u179_normal.png');
+}
+
+.u199_container {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u199_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u200 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u201_normal {
+    background-image: url('../Winner_Message_View_files/u179_normal.png');
+}
+
+.u201_container {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u201_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u202 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u203 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u204 {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u205 {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u178 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:411px;
+    height:26px;
+    
+}
+
+.u206_normal {
+    background-image: url('../Winner_Message_View_files/u179_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../Winner_Message_View_files/u179_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../Winner_Message_View_files/u179_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u212 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u213 {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u214 {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u216_normal {
+    background-image: url('../Winner_Message_View_files/u216_normal.png');
+}
+
+.u216_container {
+    position:absolute;
+    left:410px;
+    top:370px;
+    width:500px;
+    height:300px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:506px;
+    height:306px;
+}
+
+.u217 {
+    position:absolute;
+    left:2px;
+    top:142px;
+    width:496px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218_normal {
+    background-image: url('../Winner_Message_View_files/u218_normal.png');
+}
+
+.u218_container {
+    position:absolute;
+    left:437px;
+    top:394px;
+    width:40px;
+    height:49px;
+}
+
+#u218_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:55px;
+}
+
+.u219 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220_normal {
+    background-image: url('../Winner_Message_View_files/u218_normal.png');
+}
+
+.u220_container {
+    position:absolute;
+    left:487px;
+    top:394px;
+    width:40px;
+    height:49px;
+}
+
+#u220_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:55px;
+}
+
+.u221 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222_normal {
+    background-image: url('../Winner_Message_View_files/u218_normal.png');
+}
+
+.u222_container {
+    position:absolute;
+    left:533px;
+    top:394px;
+    width:40px;
+    height:49px;
+}
+
+#u222_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:55px;
+}
+
+.u223 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u224_normal {
+    background-image: url('../Winner_Message_View_files/u218_normal.png');
+}
+
+.u224_container {
+    position:absolute;
+    left:586px;
+    top:394px;
+    width:40px;
+    height:49px;
+}
+
+#u224_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:55px;
+}
+
+.u225 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u226_normal {
+    background-image: url('../Winner_Message_View_files/u218_normal.png');
+}
+
+.u226_container {
+    position:absolute;
+    left:641px;
+    top:394px;
+    width:40px;
+    height:49px;
+}
+
+#u226_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:55px;
+}
+
+.u227 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../Winner_Message_View_files/u218_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:692px;
+    top:394px;
+    width:40px;
+    height:49px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:55px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230_normal {
+    background-image: url('../Winner_Message_View_files/u218_normal.png');
+}
+
+.u230_container {
+    position:absolute;
+    left:743px;
+    top:394px;
+    width:40px;
+    height:49px;
+}
+
+#u230_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:55px;
+}
+
+.u231 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232 {
+    position:absolute;
+    left:480px;
+    top:717px;
+    width:150px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u233_normal {
+    background-image: url('../Winner_Message_View_files/u10_normal.png');
+}
+
+.u233_container {
+    position:absolute;
+    left:370px;
+    top:653px;
+    width:100px;
+    height:100px;
+}
+
+#u233_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:106px;
+}
+
+.u234 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u235_image_sketch {
+    background-image: url('../Winner_Message_View_files/u235_image_sketch.png');
+    position:absolute;
+    left:817px;
+    top:275px;
+    width:226px;
+    height:46px;
+}
+
+.u235 {
+    position:absolute;
+    left:820px;
+    top:278px;
+    width:220px;
+    height:40px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u236_normal {
+    background-image: url('../Winner_Message_View_files/u236_normal.png');
+}
+
+.u236_container {
+    position:absolute;
+    left:820px;
+    top:540px;
+    width:220px;
+    height:166px;
+}
+
+#u236_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:172px;
+}
+
+.u237 {
+    position:absolute;
+    left:2px;
+    top:75px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238 {
+    position:absolute;
+    left:797px;
+    top:705px;
+    width:250px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

@@ -1,0 +1,8 @@
+﻿var sitemap = 
+
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,[_(c,d,e,f,g,h),_(c,i,e,f,g,j,k,[_(c,l,e,f,g,m),_(c,n,e,f,g,o),_(c,p,e,f,g,q),_(c,r,e,f,g,s),_(c,t,e,f,g,u),_(c,v,e,f,g,w),_(c,x,e,f,g,y),_(c,z,e,f,g,A),_(c,B,e,f,g,C),_(c,D,e,f,g,E)]),_(c,F,e,f,g,G,k,[_(c,H,e,f,g,I),_(c,J,e,f,g,K)]),_(c,L,e,f,g,M,k,[_(c,N,e,f,g,O),_(c,P,e,f,g,Q),_(c,R,e,f,g,S),_(c,T,e,f,g,U),_(c,V,e,f,g,W),_(c,X,e,f,g,Y),_(c,Z,e,f,g,ba),_(c,bb,e,f,g,bc),_(c,bd,e,f,g,be)]),_(c,bf,e,f,g,bg)]);}; 
+var b="rootNodes",c="pageName",d="GroupPage",e="type",f="Wireframe",g="url",h="GroupPage.html",i="Pillow App",j="Pillow_App.html",k="children",l="My Messages",m="My_Messages.html",n="Sent Messages",o="Sent_Messages.html",p="My Message View",q="My_Message_View.html",r="Sent Message View",s="Sent_Message_View.html",t="Winner Message View",u="Winner_Message_View.html",v="Rules",w="Rules.html",x="Create Pillow",y="Create_Pillow.html",z="Create Pillow Text",A="Create_Pillow_Text.html",B="Select Friends",C="Select_Friends.html",D="Animation",E="Animation.html",F="Products",G="Products.html",H="View Product",I="View_Product.html",J="Reviews",K="Reviews.html",L="Questions",M="Questions.html",N="Search result",O="Search_result.html",P="Ask",Q="Ask.html",R="Topics",S="Topics.html",T="View Question",U="View_Question.html",V="My profile Questions",W="My_profile_Questions.html",X="Last",Y="Last.html",Z="Trends",ba="Trends.html",bb="My profile Answers",bc="My_profile_Answers.html",bd="My profile Comments",be="My_profile_Comments.html",bf="Petitions",bg="Petitions.html";
+return _creator();
+})();

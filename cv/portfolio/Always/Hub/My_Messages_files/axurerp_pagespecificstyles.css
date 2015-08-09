@@ -1,0 +1,8173 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../My_Messages_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1161px;
+    height:2474px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1161px;
+    height:2474px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:1229px;
+    width:1157px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_line {
+    background-image: url('../My_Messages_files/u2_line.png');
+}
+
+.u2_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:106px;
+    height:5px;
+}
+
+.u2 {
+    position:absolute;
+    left:1067px;
+    top:700px;
+    width:106px;
+    height:10px;
+    
+}
+
+.u3 {
+    position:absolute;
+    left:1183px;
+    top:694px;
+    width:90px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_line {
+    background-image: url('../My_Messages_files/u4_line.png');
+}
+
+.u4_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:106px;
+    height:5px;
+}
+
+.u4 {
+    position:absolute;
+    left:1067px;
+    top:776px;
+    width:106px;
+    height:10px;
+    
+}
+
+.u5 {
+    position:absolute;
+    left:1183px;
+    top:756px;
+    width:90px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../My_Messages_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:330px;
+    top:360px;
+    width:340px;
+    height:100px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:346px;
+    height:106px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:336px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u9 {
+    position:absolute;
+    left:306px;
+    top:76px;
+    width:761px;
+    height:185px;
+    overflow:hidden;
+}
+
+#pd3u9 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:761px;
+    height:185px;
+    
+}
+
+.u10_normal {
+    background-image: url('../My_Messages_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:760px;
+    height:184px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:766px;
+    height:190px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../My_Messages_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:15px;
+    top:14px;
+    width:100px;
+    height:100px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:106px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:614px;
+    top:12px;
+    width:130px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../My_Messages_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:189px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../My_Messages_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:46px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../My_Messages_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:131px;
+    top:14px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:131px;
+    top:32px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:131px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:147px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:186px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:202px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:240px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:256px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:131px;
+    top:54px;
+    width:110px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:614px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:682px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../My_Messages_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:640px;
+    top:144px;
+    width:110px;
+    height:35px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:41px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../My_Messages_files/u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:715px;
+    top:147px;
+    width:28px;
+    height:28px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:34px;
+    height:34px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:722px;
+    top:146px;
+    width:14px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+}
+
+.u43_line {
+    background-image: url('../My_Messages_files/u43_line.png');
+}
+
+.u43_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:326px;
+    height:5px;
+}
+
+.u43 {
+    position:absolute;
+    left:434px;
+    top:179px;
+    width:326px;
+    height:10px;
+    
+}
+
+.u44_line {
+    background-image: url('../My_Messages_files/u44_line.png');
+}
+
+.u44_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:315px;
+    height:5px;
+}
+
+.u44 {
+    position:absolute;
+    left:0px;
+    top:179px;
+    width:315px;
+    height:10px;
+    
+}
+
+#u45 {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u46 {
+    position:absolute;
+    left:315px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u47 {
+    position:absolute;
+    left:190px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd2u9 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:761px;
+    height:185px;
+    
+}
+
+.u48_normal {
+    background-image: url('../My_Messages_files/u10_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:760px;
+    height:184px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:766px;
+    height:190px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../My_Messages_files/u12_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:15px;
+    top:14px;
+    width:100px;
+    height:100px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:106px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:614px;
+    top:12px;
+    width:130px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../My_Messages_files/u15_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:189px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../My_Messages_files/u17_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:46px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../My_Messages_files/u15_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:131px;
+    top:14px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60 {
+    position:absolute;
+    left:131px;
+    top:32px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:131px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:147px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:186px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:202px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:240px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:256px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:131px;
+    top:54px;
+    width:110px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:614px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:682px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_line {
+    background-image: url('../My_Messages_files/u76_line.png');
+}
+
+.u76_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:321px;
+    height:5px;
+}
+
+.u76 {
+    position:absolute;
+    left:439px;
+    top:179px;
+    width:321px;
+    height:10px;
+    
+}
+
+.u77_line {
+    background-image: url('../My_Messages_files/u77_line.png');
+}
+
+.u77_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:309px;
+    height:5px;
+}
+
+.u77 {
+    position:absolute;
+    left:0px;
+    top:179px;
+    width:309px;
+    height:10px;
+    
+}
+
+#u78 {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u79 {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u80 {
+    position:absolute;
+    left:190px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u81_normal {
+    background-image: url('../My_Messages_files/u38_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:640px;
+    top:144px;
+    width:110px;
+    height:35px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:41px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../My_Messages_files/u40_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:715px;
+    top:147px;
+    width:28px;
+    height:28px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:34px;
+    height:34px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:722px;
+    top:146px;
+    width:14px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+}
+
+#pd1u9 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:761px;
+    height:185px;
+    
+}
+
+.u86_normal {
+    background-image: url('../My_Messages_files/u10_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:760px;
+    height:184px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:766px;
+    height:190px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../My_Messages_files/u12_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:15px;
+    top:14px;
+    width:100px;
+    height:100px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:106px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90 {
+    position:absolute;
+    left:614px;
+    top:12px;
+    width:130px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_normal {
+    background-image: url('../My_Messages_files/u91_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:189px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u91_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../My_Messages_files/u17_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:46px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../My_Messages_files/u15_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97 {
+    position:absolute;
+    left:131px;
+    top:14px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98 {
+    position:absolute;
+    left:131px;
+    top:32px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:131px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:147px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u101_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:186px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u103_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:202px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:240px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u107_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u108 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:256px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111 {
+    position:absolute;
+    left:131px;
+    top:54px;
+    width:110px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:614px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113 {
+    position:absolute;
+    left:682px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_line {
+    background-image: url('../My_Messages_files/u114_line.png');
+}
+
+.u114_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:446px;
+    height:5px;
+}
+
+.u114 {
+    position:absolute;
+    left:314px;
+    top:179px;
+    width:446px;
+    height:10px;
+    
+}
+
+.u115_line {
+    background-image: url('../My_Messages_files/u115_line.png');
+}
+
+.u115_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:186px;
+    height:5px;
+}
+
+.u115 {
+    position:absolute;
+    left:0px;
+    top:179px;
+    width:186px;
+    height:10px;
+    
+}
+
+#u116 {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u117 {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u118 {
+    position:absolute;
+    left:190px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u119_normal {
+    background-image: url('../My_Messages_files/u38_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:640px;
+    top:144px;
+    width:110px;
+    height:35px;
+}
+
+#u119_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:41px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121_normal {
+    background-image: url('../My_Messages_files/u40_normal.png');
+}
+
+.u121_container {
+    position:absolute;
+    left:715px;
+    top:147px;
+    width:28px;
+    height:28px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u121_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:34px;
+    height:34px;
+}
+
+.u122 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123 {
+    position:absolute;
+    left:722px;
+    top:146px;
+    width:14px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+}
+
+#pd0u9 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:761px;
+    height:185px;
+    
+}
+
+.u124_normal {
+    background-image: url('../My_Messages_files/u10_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:760px;
+    height:184px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:766px;
+    height:190px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../My_Messages_files/u12_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:15px;
+    top:14px;
+    width:100px;
+    height:100px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:106px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128 {
+    position:absolute;
+    left:614px;
+    top:12px;
+    width:130px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../My_Messages_files/u15_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:189px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../My_Messages_files/u131_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:46px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../My_Messages_files/u15_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:120px;
+    height:40px;
+}
+
+#u133_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:46px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135 {
+    position:absolute;
+    left:131px;
+    top:14px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136 {
+    position:absolute;
+    left:131px;
+    top:32px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u137_container {
+    position:absolute;
+    left:131px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u137_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u138 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u139_container {
+    position:absolute;
+    left:147px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u139_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u140 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u141_container {
+    position:absolute;
+    left:186px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u141_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u142 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u143_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u143_container {
+    position:absolute;
+    left:202px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u143_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u144 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145_normal {
+    background-image: url('../My_Messages_files/u23_normal.png');
+}
+
+.u145_container {
+    position:absolute;
+    left:240px;
+    top:94px;
+    width:30px;
+    height:20px;
+}
+
+#u145_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:26px;
+}
+
+.u146 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147_normal {
+    background-image: url('../My_Messages_files/u25_normal.png');
+}
+
+.u147_container {
+    position:absolute;
+    left:256px;
+    top:87px;
+    width:26px;
+    height:15px;
+}
+
+#u147_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:21px;
+}
+
+.u148 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:22px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149 {
+    position:absolute;
+    left:131px;
+    top:54px;
+    width:110px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150 {
+    position:absolute;
+    left:614px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151 {
+    position:absolute;
+    left:682px;
+    top:59px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_line {
+    background-image: url('../My_Messages_files/u152_line.png');
+}
+
+.u152_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:574px;
+    height:5px;
+}
+
+.u152 {
+    position:absolute;
+    left:186px;
+    top:179px;
+    width:574px;
+    height:10px;
+    
+}
+
+.u153_line {
+    background-image: url('../My_Messages_files/u153_line.png');
+}
+
+.u153_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:10px;
+    height:5px;
+}
+
+.u153 {
+    position:absolute;
+    left:0px;
+    top:179px;
+    width:10px;
+    height:10px;
+    
+}
+
+#u154 {
+    position:absolute;
+    left:14px;
+    top:144px;
+    width:170px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u155 {
+    position:absolute;
+    left:314px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u156 {
+    position:absolute;
+    left:190px;
+    top:144px;
+    width:119px;
+    height:40px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u157_normal {
+    background-image: url('../My_Messages_files/u38_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:640px;
+    top:144px;
+    width:110px;
+    height:35px;
+}
+
+#u157_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:41px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../My_Messages_files/u40_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:715px;
+    top:147px;
+    width:28px;
+    height:28px;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+
+}
+
+#u159_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:34px;
+    height:34px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161 {
+    position:absolute;
+    left:722px;
+    top:146px;
+    width:14px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    -ms-transform: rotate(315deg);
+    transform: rotate(315deg);
+}
+
+.u163_normal {
+    background-image: url('../My_Messages_files/u163_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:93px;
+    top:94px;
+    width:132px;
+    height:130px;
+}
+
+#u163_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:138px;
+    height:136px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:57px;
+    width:128px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165 {
+    position:absolute;
+    left:95px;
+    top:140px;
+    width:130px;
+    height:44px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_image_sketch {
+    background-image: url('../My_Messages_files/u166_image_sketch.png');
+    position:absolute;
+    left:414px;
+    top:386px;
+    width:185px;
+    height:46px;
+}
+
+.u166 {
+    position:absolute;
+    left:417px;
+    top:389px;
+    width:179px;
+    height:40px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u167_normal {
+    background-image: url('../My_Messages_files/u167_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:306px;
+    top:1220px;
+    width:760px;
+    height:230px;
+}
+
+#u167_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:766px;
+    height:236px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:107px;
+    width:756px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169_normal {
+    background-image: url('../My_Messages_files/u169_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:326px;
+    top:1368px;
+    width:110px;
+    height:62px;
+}
+
+#u169_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:68px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:23px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171 {
+    position:absolute;
+    left:719px;
+    top:1380px;
+    width:190px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172 {
+    position:absolute;
+    left:920px;
+    top:1380px;
+    width:128px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173 {
+    position:absolute;
+    left:806px;
+    top:1410px;
+    width:248px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174 {
+    position:absolute;
+    left:456px;
+    top:1380px;
+    width:248px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u175_normal {
+    background-image: url('../My_Messages_files/u175_normal.png');
+}
+
+.u175_container {
+    position:absolute;
+    left:326px;
+    top:1238px;
+    width:350px;
+    height:100px;
+}
+
+#u175_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:356px;
+    height:106px;
+}
+
+.u176 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:346px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177_normal {
+    background-image: url('../My_Messages_files/u175_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:696px;
+    top:1238px;
+    width:350px;
+    height:100px;
+}
+
+#u177_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:356px;
+    height:106px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:346px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179_line {
+    background-image: url('../My_Messages_files/u179_line.png');
+}
+
+.u179_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:760px;
+    height:5px;
+}
+
+.u179 {
+    position:absolute;
+    left:306px;
+    top:1351px;
+    width:760px;
+    height:10px;
+    
+}
+
+#u181 {
+    position:absolute;
+    left:331px;
+    top:285px;
+    width:411px;
+    height:26px;
+    overflow:hidden;
+}
+
+#pd3u181 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:411px;
+    height:26px;
+    
+}
+
+.u182_normal {
+    background-image: url('../My_Messages_files/u182_normal.png');
+}
+
+.u182_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u182_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u183 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184_normal {
+    background-image: url('../My_Messages_files/u182_normal.png');
+}
+
+.u184_container {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u184_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u185 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186_normal {
+    background-image: url('../My_Messages_files/u186_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u188 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u189 {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u190 {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd2u181 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:411px;
+    height:26px;
+    
+}
+
+.u191_normal {
+    background-image: url('../My_Messages_files/u182_normal.png');
+}
+
+.u191_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u191_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u192 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u193_normal {
+    background-image: url('../My_Messages_files/u186_normal.png');
+}
+
+.u193_container {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u193_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u194 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u195_normal {
+    background-image: url('../My_Messages_files/u182_normal.png');
+}
+
+.u195_container {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u195_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u196 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u197 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u198 {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u199 {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd1u181 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:411px;
+    height:26px;
+    
+}
+
+.u200_normal {
+    background-image: url('../My_Messages_files/u186_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u201 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../My_Messages_files/u182_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../My_Messages_files/u182_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u206 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u207 {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u208 {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u181 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:411px;
+    height:26px;
+    
+}
+
+.u209_normal {
+    background-image: url('../My_Messages_files/u182_normal.png');
+}
+
+.u209_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u209_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u210 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u211_normal {
+    background-image: url('../My_Messages_files/u182_normal.png');
+}
+
+.u211_container {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u211_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u212 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u213_normal {
+    background-image: url('../My_Messages_files/u182_normal.png');
+}
+
+.u213_container {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+}
+
+#u213_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:31px;
+}
+
+.u214 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u215 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u216 {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u217 {
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u219 {
+    position:absolute;
+    left:701px;
+    top:360px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u219 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u220 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u221_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u221_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u221_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u222 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u223_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u223_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u224 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u225_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u225_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u225_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u227 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u229_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u229_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u229_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u230 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u231 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u219 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u232 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u233_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u233_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u233_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u234 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u235_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u235_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u235_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u236 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u239 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u241 {
+    position:absolute;
+    left:331px;
+    top:472px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u241 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u242 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u243_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u243_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u243_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u244 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u245_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u245_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u245_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u246 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u247_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u247_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u247_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u248 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u249 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u250 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u251_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u251_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u251_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u252 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u253 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u241 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u254 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u255_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u255_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u255_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u256 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u257_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u257_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u257_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u258 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u259 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u260 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u261 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u263 {
+    position:absolute;
+    left:701px;
+    top:472px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u263 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u264 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u265_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u265_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u265_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u266 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u267_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u267_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u267_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u268 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u269_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u269_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u269_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u270 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u271 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u272 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u273_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u273_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u273_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u274 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u275 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u263 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u276 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u277_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u277_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u277_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u278 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u279_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u279_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u279_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u280 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u281 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u282 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u283 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u285 {
+    position:absolute;
+    left:331px;
+    top:585px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u285 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u286 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u287_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u287_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u287_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u288 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u289_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u289_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u289_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u290 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u291_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u291_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u291_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u292 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u293 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u294 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u295_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u295_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u295_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u296 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u297 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u285 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u298 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u299_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u299_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u299_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u300 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u301_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u301_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u301_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u302 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u303 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u304 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u305 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u307 {
+    position:absolute;
+    left:701px;
+    top:585px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u307 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u308 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u309_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u309_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u309_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u310 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u311_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u311_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u311_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u312 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u313_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u313_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u313_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u314 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u315 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u316 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u317_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u317_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u317_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u318 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u319 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u307 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u320 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u321_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u321_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u321_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u322 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u323_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u323_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u323_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u324 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u325 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u326 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u327 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u329 {
+    position:absolute;
+    left:331px;
+    top:694px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u329 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u330 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u331_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u331_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u331_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u332 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u333_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u333_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u333_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u334 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u335_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u335_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u335_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u336 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u337 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u338 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u339_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u339_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u339_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u340 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u341 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u329 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u342 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u343_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u343_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u343_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u344 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u345_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u345_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u345_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u346 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u347 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u348 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u349 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u351 {
+    position:absolute;
+    left:701px;
+    top:694px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u351 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u352 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u353_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u353_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u353_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u354 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u355_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u355_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u355_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u356 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u357_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u357_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u357_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u358 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u359 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u360 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u361_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u361_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u361_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u362 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u363 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u351 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u364 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u365_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u365_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u365_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u366 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u367_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u367_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u367_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u368 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u369 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u370 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u371 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u373 {
+    position:absolute;
+    left:331px;
+    top:806px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u373 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u374 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u375_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u375_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u375_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u376 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u377_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u377_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u377_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u378 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u379_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u379_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u379_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u380 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u381 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u382 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u383_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u383_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u383_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u384 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u385 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u373 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u386 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u387_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u387_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u387_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u388 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u389_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u389_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u389_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u390 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u391 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u392 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u393 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u395 {
+    position:absolute;
+    left:701px;
+    top:806px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u395 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u396 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u397_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u397_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u397_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u398 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u399_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u399_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u399_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u400 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u401_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u401_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u401_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u402 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u403 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u404 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u405_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u405_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u405_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u406 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u407 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u395 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u408 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u409_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u409_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u409_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u410 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u411_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u411_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u411_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u412 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u413 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u414 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u415 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u417 {
+    position:absolute;
+    left:331px;
+    top:919px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u417 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u418 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u419_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u419_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u419_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u420 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u421_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u421_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u421_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u422 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u423_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u423_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u423_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u424 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u425 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u426 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u427_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u427_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u427_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u428 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u429 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u417 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u430 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u431_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u431_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u431_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u432 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u433_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u433_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u433_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u434 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u435 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u436 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u437 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u439 {
+    position:absolute;
+    left:701px;
+    top:919px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u439 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u440 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u441_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u441_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u441_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u442 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u443_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u443_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u443_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u444 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u445_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u445_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u445_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u446 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u447 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u448 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u449_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u449_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u449_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u450 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u451 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u439 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u452 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u453_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u453_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u453_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u454 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u455_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u455_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u455_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u456 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u457 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u458 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u459 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u461 {
+    position:absolute;
+    left:331px;
+    top:1030px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u461 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u462 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u463_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u463_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u463_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u464 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u465_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u465_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u465_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u466 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u467_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u467_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u467_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u468 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u469 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u470 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u471_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u471_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u471_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u472 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u473 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u461 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u474 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u475_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u475_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u475_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u476 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u477_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u477_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u477_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u478 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u479 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u480 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u481 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u483 {
+    position:absolute;
+    left:700px;
+    top:1030px;
+    width:341px;
+    height:101px;
+    overflow:hidden;
+}
+
+#pd1u483 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u484 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u485_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u485_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u485_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u486 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u487_normal {
+    background-image: url('../My_Messages_files/u223_normal.png');
+}
+
+.u487_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u487_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u488 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u489_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u489_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u489_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u490 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u491 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u492 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u493_normal {
+    background-image: url('../My_Messages_files/u229_normal.png');
+}
+
+.u493_container {
+    position:absolute;
+    left:23px;
+    top:35px;
+    width:80px;
+    height:30px;
+}
+
+#u493_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u494 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u495 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u483 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:101px;
+    
+}
+
+.u496 {
+    position:absolute;
+    left:200px;
+    top:33px;
+    width:130px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u497_normal {
+    background-image: url('../My_Messages_files/u221_normal.png');
+}
+
+.u497_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+}
+
+#u497_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:106px;
+}
+
+.u498 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u499_normal {
+    background-image: url('../My_Messages_files/u225_normal.png');
+}
+
+.u499_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:70px;
+    height:70px;
+}
+
+#u499_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:76px;
+}
+
+.u500 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u501 {
+    position:absolute;
+    left:200px;
+    top:69px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u502 {
+    position:absolute;
+    left:200px;
+    top:15px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u503 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:100px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u505_normal {
+    background-image: url('../My_Messages_files/u505_normal.png');
+}
+
+.u505_container {
+    position:absolute;
+    left:331px;
+    top:1150px;
+    width:109px;
+    height:40px;
+}
+
+#u505_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:115px;
+    height:46px;
+}
+
+.u506 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:105px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u507_normal {
+    background-image: url('../My_Messages_files/u507_normal.png');
+}
+
+.u507_container {
+    position:absolute;
+    left:940px;
+    top:1150px;
+    width:100px;
+    height:40px;
+}
+
+#u507_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:46px;
+}
+
+.u508 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u509 {
+    position:absolute;
+    left:539px;
+    top:1162px;
+    width:9px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u510 {
+    position:absolute;
+    left:560px;
+    top:1162px;
+    width:9px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u511 {
+    position:absolute;
+    left:581px;
+    top:1162px;
+    width:9px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u512 {
+    position:absolute;
+    left:468px;
+    top:1162px;
+    width:60px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
