@@ -442,6 +442,7 @@
   width:542px;
   height:546px;
   overflow:hidden;
+  visibility:hidden;
 }
 #u38_state0 {
   position:absolute;
