@@ -113,7 +113,7 @@ function CV_InitSoundManager() {
 }
 
 function CV_FlipObject(refName,dir){
-	var ref = $('*[data-label="'+refName+'"]').filter(":first");
+	var ref = $('*[data-label="^'+refName+'"]').filter(":first");
 	if(dir) {
 		if(!$(ref).hasClass("cv-flip")) {
 			$(ref).addClass("cv-flip");
