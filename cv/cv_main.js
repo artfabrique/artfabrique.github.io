@@ -17,8 +17,8 @@ function CV_OnAxure_Loaded() {
 
 function CV_Init() {
 	console.log("CV_Init");
-	$("head").append('<link type="text/css" rel="stylesheet" href="cv/cv_style.css">');
-	$.getScript("cv/soundmanager/soundmanager2.js").done(CV_InitSoundManager);
+	$("head").append('<link type="text/css" rel="stylesheet" href="http://artfabrique.github.io/cv/cv_style.css">');
+	$.getScript("http://artfabrique.github.io/cv/soundmanager/soundmanager2.js").done(CV_InitSoundManager);
 	$('[data-label*="^"]').css('pointer-events', 'none');
 
 
@@ -102,7 +102,7 @@ function CV_InitSoundManager() {
 
 			soundManager.createSound({
 				id: 'music_1',
-				url: 'cv/sound/C418 – Minecraft.mp3',
+				url: 'http://artfabrique.github.io/cv/sound/C418 – Minecraft.mp3',
 				autoLoad: true,
 				loops:999,
 				autoPlay: true,
@@ -115,7 +115,7 @@ function CV_InitSoundManager() {
 			});
 			soundManager.createSound({
 				id: 'campfire',
-				url: 'cv/sound/62487_sagetyrtle_1103campfire1.mp3',
+				url: 'http://artfabrique.github.io/cv/sound/62487_sagetyrtle_1103campfire1.mp3',
 				autoLoad: true,
 				autoPlay: false,
 				loops:999,
@@ -129,7 +129,7 @@ function CV_InitSoundManager() {
 			});
 			soundManager.createSound({
 				id: 'heroSteps',
-				url: 'cv/sound/267499_purplewalrus23_footsteps-on-rough-gravel-26.mp3',
+				url: 'http://artfabrique.github.io/cv/sound/267499_purplewalrus23_footsteps-on-rough-gravel-26.mp3',
 				autoLoad: true,
 				autoPlay: false,
 				loops:999,
